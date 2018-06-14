@@ -1,3 +1,9 @@
 h1.welcome_text{
   color: #00ff66;
 }
+
+ul.nav_bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
