@@ -11,6 +11,11 @@ ul.nav_bar {
     background-color: #333;
 }
 
+ul.projects{
+  font-family: 'Share Tech Mono', monospace;
+  color: #00ff66;
+}
+
 li {
     float: left;
 }
