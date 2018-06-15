@@ -12,11 +12,16 @@ ul.nav_bar {
 }
 
 ul.projects{
+  list-style-type: square;
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
 }
 
-li {
+li.projects{
+  display: block;
+}
+
+li.nav_bar {
     float: left;
 }
 
