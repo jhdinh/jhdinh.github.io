@@ -1,6 +1,11 @@
 p{
+  text-align: center;
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
+}
+
+img{
+  position: center;
 }
 
 ul.nav_bar {
