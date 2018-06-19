@@ -11,6 +11,11 @@ ul.nav_bar {
     background-color: #333;
 }
 
+h1{
+  font-family: 'Share Tech Mono', monospace;
+  color: #00ff66;
+}
+
 ul.projects{
   list-style-type: square;
   font-family: 'Share Tech Mono', monospace;
