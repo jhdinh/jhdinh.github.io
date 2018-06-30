@@ -34,13 +34,14 @@ div.picture_quote{
 }
 
 p{
+  padding-left: 20px;
   font-size: 16pt;
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
+  width: 65%;
 }
 
 p.quote{
-  padding-left: 20px;
   padding-right: 20px;
 }
 
