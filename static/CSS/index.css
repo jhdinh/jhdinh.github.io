@@ -30,6 +30,7 @@ li a:hover {
 
 div.picture_quote{
   display: flex;
+  border: 20px;
 }
 
 p.quote{
