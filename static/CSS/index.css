@@ -27,3 +27,8 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+img.index_pic{
+  width: 50%;
+  height: 50%;
+}
