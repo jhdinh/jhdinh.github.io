@@ -1,6 +1,7 @@
 h1.welcome_text{
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
+  padding-left: 20px;
 }
 
 ul.nav_bar {
@@ -30,17 +31,19 @@ li a:hover {
 
 div.picture_quote{
   display: flex;
-  border: 20px;
 }
 
 p.quote{
   font-size: 16pt;
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 img.index_pic{
   float: right;
   width: 30%;
   height: 30%;
+  padding-right: 20px;
 }
