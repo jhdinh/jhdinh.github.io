@@ -28,7 +28,18 @@ li a:hover {
     background-color: #111;
 }
 
+div.picture_quote{
+  display: flex;
+}
+
+p.quote{
+  font-size: 16pt;
+  font-family: 'Share Tech Mono', monospace;
+  color: #00ff66;
+}
+
 img.index_pic{
-  width: 50%;
-  height: 50%;
+  float: right;
+  width: 30%;
+  height: 30%;
 }
