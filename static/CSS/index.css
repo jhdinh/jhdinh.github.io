@@ -33,6 +33,10 @@ div.picture_quote{
   display: flex;
 }
 
+div.quote_blurb{
+  width: 80%;
+}
+
 p{
   padding-left: 20px;
   font-size: 16pt;
