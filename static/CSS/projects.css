@@ -1,6 +1,7 @@
-p.summary{
+p{
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
+  font-size: 16pt;
 }
 
 ul.nav_bar {
