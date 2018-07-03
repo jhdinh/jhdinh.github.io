@@ -1,7 +1,7 @@
 h1.welcome_text{
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
-  padding-left: 100px;
+  padding-left: 200px;
 }
 
 ul.nav_bar {
@@ -38,8 +38,8 @@ div.quote_blurb{
 }
 
 p{
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
   font-size: 16pt;
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
@@ -53,5 +53,5 @@ img.index_pic{
   float: right;
   width: 30%;
   height: 30%;
-  padding-right: 100px;
+  padding-right: 200px;
 }

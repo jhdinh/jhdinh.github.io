@@ -1,6 +1,6 @@
 p{
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
   font-size: 16pt;
@@ -15,7 +15,7 @@ ul.nav_bar {
 }
 
 h1{
-  padding-left: 100px;
+  padding-left: 200px;
   font-family: 'Share Tech Mono', monospace;
   color: #00ff66;
 }
